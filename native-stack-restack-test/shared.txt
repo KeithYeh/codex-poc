@@ -1,1 +1,1 @@
-owner=pr-1-conflicting-update
+owner=pr-2-resolved-after-pr-1-update
